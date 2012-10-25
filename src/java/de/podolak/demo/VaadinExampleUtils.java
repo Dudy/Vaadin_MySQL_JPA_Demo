@@ -4,7 +4,7 @@
  * Created on 25. Oktober 2012, 19:37
  */
  
-package com.example.vaadin;           
+package de.podolak.demo;           
 
 import com.vaadin.data.Container;
 import com.vaadin.data.Item;
